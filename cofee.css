@@ -1,0 +1,52 @@
+
+
+.logo{
+    width: auto;
+    height: 150px;
+}
+
+
+h2{
+    margin-left: 20px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.background{
+    height: auto;
+    width: 1900px;
+}
+.text{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+footer{
+    text-align: center;
+}
+div{
+    margin-left: 20px;
+}
+
+.textbox{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.btn{
+    margin-left: 100px;
+}
+.stbl{
+    border: 3px solid black;
+}
+.stbl th{
+    border: 2px;
+    padding: 30px;
+}
+.stbl td{
+    margin-top: -10px;
+    padding: 30px;
+}
